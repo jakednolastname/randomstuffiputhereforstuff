@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="336 312 188.943 94.471"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="nav-logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="272.58966"
+     inkscape:cy="-5.6568542"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
+  <mask
+     id="w">
+    <path
+       fill="#ffffff"
+       d="M 336 312 L 524.943 312 L 524.943 406.471 L 336 406.471 Z"
+       fill-rule="evenodd"
+       id="path15"
+       style="" />
+    <path
+       fill="black"
+       d="M 347.808 335.618 L 360.715 382.889 L 374.612 382.889 L 382.764 353.152 L 383.344 353.152 L 391.496 382.889 L 405.421 382.889 L 418.299 335.618 L 405.025 335.618 L 397.793 367.188 L 397.397 367.188 L 389.613 335.618 L 376.551 335.618 L 368.895 367.372 L 368.47 367.372 L 361.111 335.618 Z"
+       fill-rule="evenodd"
+       id="path17"
+       style="" />
+  </mask>
+  <g
+     id="g2274"
+     transform="matrix(0.99039517,0,0,0.97119958,-4.0467601,122.81137)">
+    <path
+       id="rect702"
+       style="fill:#ffffff;stroke-width:7.63756;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="m 343.35253,194.80373 v 97.26562 H 534.1162 v -97.26562 z m 20.60742,24.50781 h 17.96289 l 8.76758,11.58203 h 0.60156 l 8.68164,-11.58203 h 17.96485 l -17.96485,23.53906 17.96485,23.53711 h -17.96485 l -8.68164,-11.58008 h -0.60156 l -8.76758,11.58008 h -17.96289 l 18.04883,-23.53711 z" />
+    <g
+       aria-label="x"
+       transform="scale(0.95547679,1.0465979)"
+       id="text901"
+       style="font-size:89.9592px;font-family:HalenoirExpanded-Black;-inkscape-font-specification:'HalenoirExpanded-Black, Normal';stroke-width:3.5417;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill" />
+  </g>
+</svg>
